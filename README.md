@@ -8,7 +8,7 @@ Without further ado lets get started
 
 Am currently on my desktop and ill create my app directory in here,so ill open the terminal and run 
 ```
-npx-create-react-app fun_activity_app
+npx create-react-app fun_activity_app
 ```
 As it installs,ill open my visual studio
 
