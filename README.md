@@ -1,3 +1,4 @@
+![Test Image 1](preview.png)
 What causes boredom? Is boredom a serious problem, or a firstworld problem? Should we worry about being bored, and try to avoid it? Is there a simple way to turn our boredom into productive activities? Is boredom a waste of time?
 
 Although these are certainly not novel questions, they are more interesting now than ever before, with much of humanity in quarantine, and many of our fun and leisure activities on hold for the foreseeable future. 
